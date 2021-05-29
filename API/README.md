@@ -15,4 +15,8 @@ dotnet ef database update
 dotnet ef database drop
 
 dotnet ef database update
+
+dotnet ef migrations add ExtendedUserEntity
+
+dotnet ef database drop
 ```
